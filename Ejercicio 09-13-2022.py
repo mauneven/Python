@@ -11,7 +11,6 @@ def evaluaFuncion (pFuncion, pValor):
     variable = "@x"
     return eval(pFuncion.replace(variable, pValor))
 
-
 # Print para inicializar
 
 print ("MÉTODO GRÁFICO")

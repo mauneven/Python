@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 iteraciones = 10;
-xi = 0.9
+xi = 0.9 
 xu = 1
 xr = (xi+xu)/2;
 fi = math.sin(xi)-(4*xi)+3
